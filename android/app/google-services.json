@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "561772756040",
+    "firebase_url": "https://mombien-default-rtdb.firebaseio.com",
+    "project_id": "mombien",
+    "storage_bucket": "mombien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561772756040:android:ce606357b6ef503841ec7d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561772756040-qsip89levr1gq6jvdahtcqq5rmb039s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJ-NEIWUsH0Dw6o4X-MU7USffkEfQS2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561772756040-qsip89levr1gq6jvdahtcqq5rmb039s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561772756040-1sln6mudspha5pcap5gldjunqp1goe1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mombienTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561772756040:android:736d1ba29091a7f041ec7d",
+        "android_client_info": {
+          "package_name": "com.example.mombien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561772756040-qsip89levr1gq6jvdahtcqq5rmb039s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJ-NEIWUsH0Dw6o4X-MU7USffkEfQS2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561772756040-qsip89levr1gq6jvdahtcqq5rmb039s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561772756040-1sln6mudspha5pcap5gldjunqp1goe1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mombienTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561772756040:android:9792cf0dccc3ec6e41ec7d",
+        "android_client_info": {
+          "package_name": "com.example.mombien_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561772756040-ind1719i4omcvb2efs1h2erl8h7dss1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mombien_test",
+            "certificate_hash": "34beb93904d26fdd10b47bf22e088f3966b655a3"
+          }
+        },
+        {
+          "client_id": "561772756040-m664cf8rnk0cstm8nh9d86efqafvs83e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mombien_test",
+            "certificate_hash": "4567027062d8a5c9aa525be6136115d4ce004970"
+          }
+        },
+        {
+          "client_id": "561772756040-qsip89levr1gq6jvdahtcqq5rmb039s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJ-NEIWUsH0Dw6o4X-MU7USffkEfQS2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561772756040-qsip89levr1gq6jvdahtcqq5rmb039s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561772756040-1sln6mudspha5pcap5gldjunqp1goe1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mombienTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
